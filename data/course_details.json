@@ -1,0 +1,232 @@
+[
+    {
+        "categoryId": 1,
+        "courseId": 1,
+        "name": "Intorductin To JavaScrip",
+        "description": "Intorduction To JavaScrip (the beginner's guide)",
+        "coverPhoto": "assets/images/img1.jpg",
+        "introductionVideo": "",
+        "completionPercentage": 50,
+        "completedLecture": 8,
+        "totalLecture": 15,
+        "totalDuration": "2h 30min",
+        "courseBriefDescription": "",
+        "countentGroups": [
+            {
+                "groupId": 1,
+                "groupName": "Intorduction",
+                "totalDuration": "00:30:10",
+                "totalLecture": 3
+            },
+            {
+                "groupId": 2,
+                "groupName": "JavaScrip Details",
+                "totalDuration": "00:50:10",
+                "totalLecture": 3
+            },
+            {
+                "groupId": 3,
+                "groupName": "Conclusion",
+                "totalDuration": "00:05:10",
+                "totalLecture": 2
+            }
+        ],
+        "courseContent": [
+            {
+                "name": "Course Introduction",
+                "description": "",
+                "contentOrder": 1,
+                "contentType": 1,
+                "groupId": 1,
+                "groupOrder": 1,
+                "contentURL": "",
+                "completed": true
+            },
+            {
+                "name": "Course Outline",
+                "description": "",
+                "contentType": 2,
+                "contentOrder": 2,
+                "groupId": 1,
+                "groupOrder": 1,
+                "contentURL": "",
+                "completed": true
+            },
+            {
+                "name": "Quize",
+                "description": "",
+                "contentType": 3,
+                "contentOrder": 3,
+                "groupId": 1,
+                "groupOrder": 1,
+                "contentURL": "",
+                "completed": false
+            },
+            {
+                "name": "Javascrip step 1",
+                "description": "",
+                "contentType": 1,
+                "contentOrder": 1,
+                "groupId": 2,
+                "groupOrder": 2,
+                "contentURL": "",
+                "completed": false
+            },
+            {
+                "name": "Javascrip step 2",
+                "description": "",
+                "contentType": 2,
+                "contentOrder": 2,
+                "groupId": 2,
+                "groupOrder": 2,
+                "contentURL": "",
+                "completed": false
+            },
+            {
+                "name": "JavaScrip step 23",
+                "description": "",
+                "contentType": 3,
+                "contentOrder": 3,
+                "groupId": 2,
+                "groupOrder": 2,
+                "contentURL": "",
+                "completed": false
+            },
+            {
+                "name": "Javascrip conclusion",
+                "description": "",
+                "contentType": 1,
+                "contentOrder": 1,
+                "groupId": 3,
+                "groupOrder": 3,
+                "contentURL": "",
+                "completed": false
+            },
+            {
+                "name": "Javascrip conclusion",
+                "description": "",
+                "contentType": 1,
+                "contentOrder": 2,
+                "groupId": 3,
+                "groupOrder": 3,
+                "contentURL": "",
+                "completed": false
+            }
+        ]
+    },
+    {
+        "categoryId": 1,
+        "courseId": 2,
+        "name": "Intorductin To C#",
+        "description": "Intorduction To C# (the beginner's guide)",
+        "coverPhoto": "assets/images/img1.jpg",
+        "introductionVideo": "",
+        "completionPercentage": 50,
+        "completedLecture": 8,
+        "totalLecture": 15,
+        "totalDuration": "2h 30min",
+        "courseBriefDescription": "",
+        "countentGroups": [
+            {
+                "groupId": 1,
+                "groupName": "Intorduction",
+                "totalDuration": "00:30:10",
+                "totalLecture": 3
+            },
+            {
+                "groupId": 2,
+                "groupName": "C# Details",
+                "totalDuration": "00:50:10",
+                "totalLecture": 3
+            },
+            {
+                "groupId": 3,
+                "groupName": "Conclusion",
+                "totalDuration": "00:05:10",
+                "totalLecture": 2
+            }
+        ],
+        "courseContent": [
+            {
+                "name": "Course Introduction",
+                "description": "",
+                "contentOrder": 1,
+                "contentType": 1,
+                "groupId": 1,
+                "groupOrder": 1,
+                "contentURL": "",
+                "completed": true
+            },
+            {
+                "name": "Course Outline",
+                "description": "",
+                "contentType": 2,
+                "contentOrder": 2,
+                "groupId": 1,
+                "groupOrder": 1,
+                "contentURL": "",
+                "completed": true
+            },
+            {
+                "name": "Quize",
+                "description": "",
+                "contentType": 3,
+                "contentOrder": 3,
+                "groupId": 1,
+                "groupOrder": 1,
+                "contentURL": "",
+                "completed": false
+            },
+            {
+                "name": "C# step 1",
+                "description": "",
+                "contentType": 1,
+                "contentOrder": 1,
+                "groupId": 2,
+                "groupOrder": 2,
+                "contentURL": "",
+                "completed": false
+            },
+            {
+                "name": "C# step 2",
+                "description": "",
+                "contentType": 2,
+                "contentOrder": 2,
+                "groupId": 2,
+                "groupOrder": 2,
+                "contentURL": "",
+                "completed": false
+            },
+            {
+                "name": "C# step 23",
+                "description": "",
+                "contentType": 3,
+                "contentOrder": 3,
+                "groupId": 2,
+                "groupOrder": 2,
+                "contentURL": "",
+                "completed": false
+            },
+            {
+                "name": "C# conclusion",
+                "description": "",
+                "contentType": 1,
+                "contentOrder": 1,
+                "groupId": 3,
+                "groupOrder": 3,
+                "contentURL": "",
+                "completed": false
+            },
+            {
+                "name": "C# conclusion",
+                "description": "",
+                "contentType": 1,
+                "contentOrder": 2,
+                "groupId": 3,
+                "groupOrder": 3,
+                "contentURL": "",
+                "completed": false
+            }
+        ]
+    }
+]

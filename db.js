@@ -1,15 +1,15 @@
-const items = require("./data/items");
-const tags = require("./data/tags");
-const brands = require("./data/brands");
-const itemTypes = require("./data/itemTypes");
 const latestcourses = require("./data/latest_courses");
+const inprogresscourses = require("./data/inprogress_courses");
+const usercourses = require("./data/user_courses");
+const coursedetails = require("./data/course_details");
+const categories = require("./data/categories");
 
 module.exports = {
-  items,
-  tags,
-  brands,
-  itemTypes,
-  latestcourses
+  latestcourses,
+  inprogresscourses,
+  usercourses,
+  coursedetails,
+  categories
 }
 
 

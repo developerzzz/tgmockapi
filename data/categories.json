@@ -1,0 +1,32 @@
+[
+    {
+        "categoryId": 1,
+        "name": "Intorductin To JavaScrip",
+        "description": "Intorduction To JavaScrip (the beginner's guide)",
+        "coverPhoto": "assets/images/img1.jpg"
+    },
+    {
+        "categoryId": 2,
+        "name": "JavaScrip Advance",
+        "description": "JavaScrip complete guide",
+        "coverPhoto": "assets/images/img2.jpg"
+    },
+    {
+        "categoryId": 3,
+        "name": "JavaScrip Advance",
+        "description": "JavaScrip complete guide",
+        "coverPhoto": "assets/images/img2.jpg"
+    },
+    {
+        "categoryId": 4,
+        "name": "JavaScrip Advance",
+        "description": "JavaScrip complete guide",
+        "coverPhoto": "assets/images/img2.jpg"
+    },
+    {
+        "categoryId": 5,
+        "name": "JavaScrip Advance",
+        "description": "JavaScrip complete guide",
+        "coverPhoto": "assets/images/img2.jpg"
+    }
+]

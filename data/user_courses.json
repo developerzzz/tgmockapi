@@ -1,0 +1,71 @@
+[
+    {
+        "categoryId": 1,
+        "courseId": 1,
+        "name": "Intorduction To JavaScript",
+        "description": "Intorduction To JavaScrip (the beginner's guide)",
+        "coverPhoto": "assets/images/img2.jpg",
+        "totalLecture": 20,
+        "totalDuration": "3h 30min"
+    },
+    {
+        "categoryId": 1,
+        "courseId": 2,
+        "name": "Intorduction To Flutter",
+        "description": "Intorduction To Flutter (the beginner's guide)",
+        "coverPhoto": "assets/images/img2.jpg",
+        "totalLecture": 20,
+        "totalDuration": "3h 30min"
+    },
+    {
+        "categoryId": 2,
+        "courseId": 3,
+        "name": "Intorduction To C#",
+        "description": "Intorduction To C# (the beginner's guide)",
+        "coverPhoto": "assets/images/img3.jpg",
+        "completionPercentage": 80,
+        "completedLecture": 7,
+        "totalLecture": 13,
+        "totalDuration": "1h 30min"
+    },
+    {
+        "categoryId": 3,
+        "courseId": 4,
+        "name": "Intorduction To SLQ Server",
+        "description": "Intorduction To SLQ Server (the beginner's guide)",
+        "coverPhoto": "assets/images/img2.jpg",
+        "completionPercentage": 40,
+        "completedLecture": 12,
+        "totalLecture": 15,
+        "totalDuration": "2h 15min"
+    },
+    {
+        "categoryId": 3,
+        "courseId": 5,
+        "name": "SLQ Server Advance",
+        "description": "JavaScrip complete guide",
+        "coverPhoto": "assets/images/img2.jpg",
+        "totalLecture": 15,
+        "totalDuration": "2h 30min"
+    },
+    {
+        "categoryId": 3,
+        "courseId": 6,
+        "name": "Intorduction To MngoDb",
+        "description": "Intorduction To MngoDb (the beginner's guide)",
+        "coverPhoto": "assets/images/img2.jpg",
+        "completionPercentage": 90,
+        "completedLecture": 14,
+        "totalLecture": 15,
+        "totalDuration": "2h 30min"
+    },
+    {
+        "categoryId": 3,
+        "courseId": 7,
+        "name": "MngoDb Advance",
+        "description": "JavaScrip complete guide",
+        "coverPhoto": "assets/images/img2.jpg",
+        "totalLecture": 15,
+        "totalDuration": "2h 30min"
+    }
+]
