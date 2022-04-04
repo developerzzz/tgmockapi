@@ -10,7 +10,7 @@
         "completedLecture": 8,
         "totalLecture": 15,
         "totalDuration": "2h 30min",
-        "courseBriefDescription": "Intorduction To JavaScrip (the beginner's guide), this course have all hte basic details.",
+        "courseBriefDescription": "JavaScript is a programming language commonly used in web development. It was originally developed by Netscape as a means to add dynamic and interactive elements to websites. While JavaScript is influenced by Java, the syntax is more similar to C and is based on ECMAScript, a scripting language developed by Sun Microsystems.",
         "countentGroups": [
             {
                 "groupId": 1,
@@ -125,7 +125,7 @@
         "completedLecture": 8,
         "totalLecture": 15,
         "totalDuration": "2h 30min",
-        "courseBriefDescription": "Intorduction To C# (the beginner's guide), this course will give detail explaination about c#",
+        "courseBriefDescription": "C# (pronounced C-sharp) is an object-oriented programming language from Microsoft that aims to combine the computing power of C++ with the programming ease of Visual Basic. C# is based on C++ and contains features similar to those of Java. C# is designed to work with Microsoft's .NET platform.",
         "countentGroups": [
             {
                 "groupId": 1,
