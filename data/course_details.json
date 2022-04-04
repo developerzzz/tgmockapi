@@ -17,7 +17,7 @@
                 "groupName": "Intorduction",
                 "totalDuration": "00:30:10",
                 "totalLecture": 3,
-                "CourseContent": [
+                "courseContent": [
                     {
                         "name": "Course Introduction",
                         "description": "",
@@ -49,7 +49,7 @@
                 "groupName": "JavaScript Details",
                 "totalDuration": "00:50:10",
                 "totalLecture": 3,
-                "CourseContent": [
+                "courseContent": [
                     {
                         "name": "JavaScript step 1",
                         "description": "",
@@ -81,7 +81,7 @@
                 "groupName": "Conclusion",
                 "totalDuration": "00:05:10",
                 "totalLecture": 2,
-                "CourseContent": [
+                "courseContent": [
                     {
                         "name": "C# conclusion",
                         "description": "",
@@ -120,7 +120,7 @@
                 "groupName": "Intorduction",
                 "totalDuration": "00:30:10",
                 "totalLecture": 3,
-                "CourseContent": [
+                "courseContent": [
                     {
                         "name": "Course Introduction",
                         "description": "",
@@ -152,7 +152,7 @@
                 "groupName": "C# Details",
                 "totalDuration": "00:50:10",
                 "totalLecture": 3,
-                "CourseContent": [
+                "courseContent": [
                     {
                         "name": "C# step 1",
                         "description": "",
@@ -184,7 +184,7 @@
                 "groupName": "Conclusion",
                 "totalDuration": "00:05:10",
                 "totalLecture": 2,
-                "CourseContent": [
+                "courseContent": [
                     {
                         "name": "C# conclusion",
                         "description": "",
