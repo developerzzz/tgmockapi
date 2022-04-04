@@ -11,106 +11,94 @@
         "totalLecture": 15,
         "totalDuration": "2h 30min",
         "courseBriefDescription": "JavaScript is a programming language commonly used in web development. It was originally developed by Netscape as a means to add dynamic and interactive elements to websites. While JavaScript is influenced by Java, the syntax is more similar to C and is based on ECMAScript, a scripting language developed by Sun Microsystems.",
-        "countentGroups": [
+        "courseContents": [
             {
                 "groupId": 1,
                 "groupName": "Intorduction",
                 "totalDuration": "00:30:10",
-                "totalLecture": 3
+                "totalLecture": 3,
+                "contentList": [
+                    {
+                        "name": "Course Introduction",
+                        "description": "",
+                        "contentOrder": 1,
+                        "contentType": 1,
+                        "contentURL": "",
+                        "completed": true
+                    },
+                    {
+                        "name": "Course Outline",
+                        "description": "",
+                        "contentType": 2,
+                        "contentOrder": 2,
+                        "contentURL": "",
+                        "completed": true
+                    },
+                    {
+                        "name": "Quize",
+                        "description": "",
+                        "contentType": 3,
+                        "contentOrder": 3,
+                        "contentURL": "",
+                        "completed": false
+                    }
+                ]
             },
             {
                 "groupId": 2,
-                "groupName": "JavaScrip Details",
+                "groupName": "JavaScript Details",
                 "totalDuration": "00:50:10",
-                "totalLecture": 3
+                "totalLecture": 3,
+                "contentList": [
+                    {
+                        "name": "JavaScript step 1",
+                        "description": "",
+                        "contentType": 1,
+                        "contentOrder": 1,
+                        "contentURL": "",
+                        "completed": false
+                    },
+                    {
+                        "name": "JavaScript step 2",
+                        "description": "",
+                        "contentType": 2,
+                        "contentOrder": 2,
+                        "contentURL": "",
+                        "completed": false
+                    },
+                    {
+                        "name": "JavaScript step 3",
+                        "description": "",
+                        "contentType": 3,
+                        "contentOrder": 3,
+                        "contentURL": "",
+                        "completed": false
+                    }
+                ]
             },
             {
                 "groupId": 3,
                 "groupName": "Conclusion",
                 "totalDuration": "00:05:10",
-                "totalLecture": 2
-            }
-        ],
-        "courseContent": [
-            {
-                "name": "Course Introduction",
-                "description": "",
-                "contentOrder": 1,
-                "contentType": 1,
-                "groupId": 1,
-                "groupOrder": 1,
-                "contentURL": "",
-                "completed": true
-            },
-            {
-                "name": "Course Outline",
-                "description": "",
-                "contentType": 2,
-                "contentOrder": 2,
-                "groupId": 1,
-                "groupOrder": 1,
-                "contentURL": "",
-                "completed": true
-            },
-            {
-                "name": "Quize",
-                "description": "",
-                "contentType": 3,
-                "contentOrder": 3,
-                "groupId": 1,
-                "groupOrder": 1,
-                "contentURL": "",
-                "completed": false
-            },
-            {
-                "name": "Javascrip step 1",
-                "description": "",
-                "contentType": 1,
-                "contentOrder": 1,
-                "groupId": 2,
-                "groupOrder": 2,
-                "contentURL": "",
-                "completed": false
-            },
-            {
-                "name": "Javascrip step 2",
-                "description": "",
-                "contentType": 2,
-                "contentOrder": 2,
-                "groupId": 2,
-                "groupOrder": 2,
-                "contentURL": "",
-                "completed": false
-            },
-            {
-                "name": "JavaScrip step 23",
-                "description": "",
-                "contentType": 3,
-                "contentOrder": 3,
-                "groupId": 2,
-                "groupOrder": 2,
-                "contentURL": "",
-                "completed": false
-            },
-            {
-                "name": "Javascrip conclusion",
-                "description": "",
-                "contentType": 1,
-                "contentOrder": 1,
-                "groupId": 3,
-                "groupOrder": 3,
-                "contentURL": "",
-                "completed": false
-            },
-            {
-                "name": "Javascrip conclusion",
-                "description": "",
-                "contentType": 1,
-                "contentOrder": 2,
-                "groupId": 3,
-                "groupOrder": 3,
-                "contentURL": "",
-                "completed": false
+                "totalLecture": 2,
+                "contentList": [
+                    {
+                        "name": "C# conclusion",
+                        "description": "",
+                        "contentType": 1,
+                        "contentOrder": 1,
+                        "contentURL": "",
+                        "completed": false
+                    },
+                    {
+                        "name": "JavaScript conclusion",
+                        "description": "",
+                        "contentType": 1,
+                        "contentOrder": 2,
+                        "contentURL": "",
+                        "completed": false
+                    }
+                ]
             }
         ]
     },
@@ -126,106 +114,94 @@
         "totalLecture": 15,
         "totalDuration": "2h 30min",
         "courseBriefDescription": "C# (pronounced C-sharp) is an object-oriented programming language from Microsoft that aims to combine the computing power of C++ with the programming ease of Visual Basic. C# is based on C++ and contains features similar to those of Java. C# is designed to work with Microsoft's .NET platform.",
-        "countentGroups": [
+        "courseContents": [
             {
                 "groupId": 1,
                 "groupName": "Intorduction",
                 "totalDuration": "00:30:10",
-                "totalLecture": 3
+                "totalLecture": 3,
+                "contentList": [
+                    {
+                        "name": "Course Introduction",
+                        "description": "",
+                        "contentOrder": 1,
+                        "contentType": 1,
+                        "contentURL": "",
+                        "completed": true
+                    },
+                    {
+                        "name": "Course Outline",
+                        "description": "",
+                        "contentType": 2,
+                        "contentOrder": 2,
+                        "contentURL": "",
+                        "completed": true
+                    },
+                    {
+                        "name": "Quize",
+                        "description": "",
+                        "contentType": 3,
+                        "contentOrder": 3,
+                        "contentURL": "",
+                        "completed": false
+                    }
+                ]
             },
             {
                 "groupId": 2,
                 "groupName": "C# Details",
                 "totalDuration": "00:50:10",
-                "totalLecture": 3
+                "totalLecture": 3,
+                "contentList": [
+                    {
+                        "name": "C# step 1",
+                        "description": "",
+                        "contentType": 1,
+                        "contentOrder": 1,
+                        "contentURL": "",
+                        "completed": false
+                    },
+                    {
+                        "name": "C# step 2",
+                        "description": "",
+                        "contentType": 2,
+                        "contentOrder": 2,
+                        "contentURL": "",
+                        "completed": false
+                    },
+                    {
+                        "name": "C# step 3",
+                        "description": "",
+                        "contentType": 3,
+                        "contentOrder": 3,
+                        "contentURL": "",
+                        "completed": false
+                    }
+                ]
             },
             {
                 "groupId": 3,
                 "groupName": "Conclusion",
                 "totalDuration": "00:05:10",
-                "totalLecture": 2
-            }
-        ],
-        "courseContent": [
-            {
-                "name": "Course Introduction",
-                "description": "",
-                "contentOrder": 1,
-                "contentType": 1,
-                "groupId": 1,
-                "groupOrder": 1,
-                "contentURL": "",
-                "completed": true
-            },
-            {
-                "name": "Course Outline",
-                "description": "",
-                "contentType": 2,
-                "contentOrder": 2,
-                "groupId": 1,
-                "groupOrder": 1,
-                "contentURL": "",
-                "completed": true
-            },
-            {
-                "name": "Quize",
-                "description": "",
-                "contentType": 3,
-                "contentOrder": 3,
-                "groupId": 1,
-                "groupOrder": 1,
-                "contentURL": "",
-                "completed": false
-            },
-            {
-                "name": "C# step 1",
-                "description": "",
-                "contentType": 1,
-                "contentOrder": 1,
-                "groupId": 2,
-                "groupOrder": 2,
-                "contentURL": "",
-                "completed": false
-            },
-            {
-                "name": "C# step 2",
-                "description": "",
-                "contentType": 2,
-                "contentOrder": 2,
-                "groupId": 2,
-                "groupOrder": 2,
-                "contentURL": "",
-                "completed": false
-            },
-            {
-                "name": "C# step 23",
-                "description": "",
-                "contentType": 3,
-                "contentOrder": 3,
-                "groupId": 2,
-                "groupOrder": 2,
-                "contentURL": "",
-                "completed": false
-            },
-            {
-                "name": "C# conclusion",
-                "description": "",
-                "contentType": 1,
-                "contentOrder": 1,
-                "groupId": 3,
-                "groupOrder": 3,
-                "contentURL": "",
-                "completed": false
-            },
-            {
-                "name": "C# conclusion",
-                "description": "",
-                "contentType": 1,
-                "contentOrder": 2,
-                "groupId": 3,
-                "groupOrder": 3,
-                "contentURL": "",
-                "completed": false
+                "totalLecture": 2,
+                "contentList": [
+                    {
+                        "name": "C# conclusion",
+                        "description": "",
+                        "contentType": 1,
+                        "contentOrder": 1,
+                        "contentURL": "",
+                        "completed": false
+                    },
+                    {
+                        "name": "C# conclusion",
+                        "description": "",
+                        "contentType": 1,
+                        "contentOrder": 2,
+                        "contentURL": "",
+                        "completed": false
+                    }
+                ]
             }
         ]
     }
