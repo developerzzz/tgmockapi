@@ -1,0 +1,402 @@
+[
+    {
+        "bankAtmId": 73,
+        "atmBranchCode": "NIBMZR01"
+    },
+    {
+        "bankAtmId": 74,
+        "atmBranchCode": "NIBSZR01"
+    },
+    {
+        "bankAtmId": 75,
+        "atmBranchCode": "NIBEMR01"
+    },
+    {
+        "bankAtmId": 76,
+        "atmBranchCode": "NIBBRD01"
+    },
+    {
+        "bankAtmId": 77,
+        "atmBranchCode": "NIBBRD02"
+    },
+    {
+        "bankAtmId": 78,
+        "atmBranchCode": "NIBSZR02"
+    },
+    {
+        "bankAtmId": 79,
+        "atmBranchCode": "NIBSZR03"
+    },
+    {
+        "bankAtmId": 80,
+        "atmBranchCode": "NIBSZR04"
+    },
+    {
+        "bankAtmId": 81,
+        "atmBranchCode": "NIBSZR05"
+    },
+    {
+        "bankAtmId": 82,
+        "atmBranchCode": "NIBSZR06"
+    },
+    {
+        "bankAtmId": 83,
+        "atmBranchCode": "NIBSZR07"
+    },
+    {
+        "bankAtmId": 84,
+        "atmBranchCode": "NIBSZR08"
+    },
+    {
+        "bankAtmId": 85,
+        "atmBranchCode": "NIBBRD11"
+    },
+    {
+        "bankAtmId": 86,
+        "atmBranchCode": "NIBGHD01"
+    },
+    {
+        "bankAtmId": 87,
+        "atmBranchCode": "NIBGHD02"
+    },
+    {
+        "bankAtmId": 88,
+        "atmBranchCode": "NIBGHD03"
+    },
+    {
+        "bankAtmId": 89,
+        "atmBranchCode": "NIBFTN01"
+    },
+    {
+        "bankAtmId": 90,
+        "atmBranchCode": "NIBFTN02"
+    },
+    {
+        "bankAtmId": 91,
+        "atmBranchCode": "NIBBRD03"
+    },
+    {
+        "bankAtmId": 92,
+        "atmBranchCode": "NIBMZR02"
+    },
+    {
+        "bankAtmId": 93,
+        "atmBranchCode": "NIB111"
+    },
+    {
+        "bankAtmId": 94,
+        "atmBranchCode": "EB351"
+    },
+    {
+        "bankAtmId": 95,
+        "atmBranchCode": "NIB115"
+    },
+    {
+        "bankAtmId": 96,
+        "atmBranchCode": "NIB116"
+    },
+    {
+        "bankAtmId": 97,
+        "atmBranchCode": "NIB118"
+    },
+    {
+        "bankAtmId": 98,
+        "atmBranchCode": "NIB119"
+    },
+    {
+        "bankAtmId": 99,
+        "atmBranchCode": "NIB120"
+    },
+    {
+        "bankAtmId": 100,
+        "atmBranchCode": "NIB121"
+    },
+    {
+        "bankAtmId": 101,
+        "atmBranchCode": "NIB122"
+    },
+    {
+        "bankAtmId": 102,
+        "atmBranchCode": "NIB123"
+    },
+    {
+        "bankAtmId": 103,
+        "atmBranchCode": "NIB501"
+    },
+    {
+        "bankAtmId": 104,
+        "atmBranchCode": "NIB502"
+    },
+    {
+        "bankAtmId": 105,
+        "atmBranchCode": "NIB503"
+    },
+    {
+        "bankAtmId": 106,
+        "atmBranchCode": "NIB901"
+    },
+    {
+        "bankAtmId": 107,
+        "atmBranchCode": "NIB902"
+    },
+    {
+        "bankAtmId": 108,
+        "atmBranchCode": "NIB903"
+    },
+    {
+        "bankAtmId": 109,
+        "atmBranchCode": "NIB904"
+    },
+    {
+        "bankAtmId": 110,
+        "atmBranchCode": "NIB125"
+    },
+    {
+        "bankAtmId": 112,
+        "atmBranchCode": "EB2201"
+    },
+    {
+        "bankAtmId": 113,
+        "atmBranchCode": "EB2202"
+    },
+    {
+        "bankAtmId": 114,
+        "atmBranchCode": "EB2203"
+    },
+    {
+        "bankAtmId": 117,
+        "atmBranchCode": "EB2302"
+    },
+    {
+        "bankAtmId": 118,
+        "atmBranchCode": "EB3301"
+    },
+    {
+        "bankAtmId": 119,
+        "atmBranchCode": "EB3302"
+    },
+    {
+        "bankAtmId": 120,
+        "atmBranchCode": "EB4401"
+    },
+    {
+        "bankAtmId": 121,
+        "atmBranchCode": "EB5501"
+    },
+    {
+        "bankAtmId": 122,
+        "atmBranchCode": "EB5503"
+    },
+    {
+        "bankAtmId": 125,
+        "atmBranchCode": "EB6701"
+    },
+    {
+        "bankAtmId": 126,
+        "atmBranchCode": "EB6702"
+    },
+    {
+        "bankAtmId": 127,
+        "atmBranchCode": "EB7201"
+    },
+    {
+        "bankAtmId": 129,
+        "atmBranchCode": "EB7701"
+    },
+    {
+        "bankAtmId": 130,
+        "atmBranchCode": "EB7901"
+    },
+    {
+        "bankAtmId": 131,
+        "atmBranchCode": "EB7902"
+    },
+    {
+        "bankAtmId": 132,
+        "atmBranchCode": "EB7903"
+    },
+    {
+        "bankAtmId": 134,
+        "atmBranchCode": "EB8801"
+    },
+    {
+        "bankAtmId": 135,
+        "atmBranchCode": "EB8802"
+    },
+    {
+        "bankAtmId": 139,
+        "atmBranchCode": "EB105"
+    },
+    {
+        "bankAtmId": 140,
+        "atmBranchCode": "EB106"
+    },
+    {
+        "bankAtmId": 141,
+        "atmBranchCode": "EB107"
+    },
+    {
+        "bankAtmId": 142,
+        "atmBranchCode": "EB109"
+    },
+    {
+        "bankAtmId": 143,
+        "atmBranchCode": "EB111"
+    },
+    {
+        "bankAtmId": 144,
+        "atmBranchCode": "EB112"
+    },
+    {
+        "bankAtmId": 145,
+        "atmBranchCode": "EB113"
+    },
+    {
+        "bankAtmId": 146,
+        "atmBranchCode": "EB114"
+    },
+    {
+        "bankAtmId": 147,
+        "atmBranchCode": "EB115"
+    },
+    {
+        "bankAtmId": 148,
+        "atmBranchCode": "EB116"
+    },
+    {
+        "bankAtmId": 149,
+        "atmBranchCode": "NIB1011"
+    },
+    {
+        "bankAtmId": 150,
+        "atmBranchCode": "EB117"
+    },
+    {
+        "bankAtmId": 151,
+        "atmBranchCode": "EB119"
+    },
+    {
+        "bankAtmId": 152,
+        "atmBranchCode": "EB122"
+    },
+    {
+        "bankAtmId": 154,
+        "atmBranchCode": "EB124"
+    },
+    {
+        "bankAtmId": 156,
+        "atmBranchCode": "EB126"
+    },
+    {
+        "bankAtmId": 157,
+        "atmBranchCode": "EB128"
+    },
+    {
+        "bankAtmId": 158,
+        "atmBranchCode": "EB130"
+    },
+    {
+        "bankAtmId": 159,
+        "atmBranchCode": "EB135"
+    },
+    {
+        "bankAtmId": 160,
+        "atmBranchCode": "EB136"
+    },
+    {
+        "bankAtmId": 162,
+        "atmBranchCode": "EB138"
+    },
+    {
+        "bankAtmId": 164,
+        "atmBranchCode": "EB140"
+    },
+    {
+        "bankAtmId": 165,
+        "atmBranchCode": "EB141"
+    },
+    {
+        "bankAtmId": 166,
+        "atmBranchCode": "EB142"
+    },
+    {
+        "bankAtmId": 167,
+        "atmBranchCode": "EB143"
+    },
+    {
+        "bankAtmId": 168,
+        "atmBranchCode": "EB11061"
+    },
+    {
+        "bankAtmId": 169,
+        "atmBranchCode": "EB149"
+    },
+    {
+        "bankAtmId": 170,
+        "atmBranchCode": "EB150"
+    },
+    {
+        "bankAtmId": 171,
+        "atmBranchCode": "EB151"
+    },
+    {
+        "bankAtmId": 172,
+        "atmBranchCode": "EB152"
+    },
+    {
+        "bankAtmId": 173,
+        "atmBranchCode": "EB153"
+    },
+    {
+        "bankAtmId": 174,
+        "atmBranchCode": "EB154"
+    },
+    {
+        "bankAtmId": 175,
+        "atmBranchCode": "EB155"
+    },
+    {
+        "bankAtmId": 176,
+        "atmBranchCode": "EB159"
+    },
+    {
+        "bankAtmId": 177,
+        "atmBranchCode": "EB160"
+    },
+    {
+        "bankAtmId": 178,
+        "atmBranchCode": "EB161"
+    },
+    {
+        "bankAtmId": 179,
+        "atmBranchCode": "EB162"
+    },
+    {
+        "bankAtmId": 180,
+        "atmBranchCode": "EB163"
+    },
+    {
+        "bankAtmId": 181,
+        "atmBranchCode": "EB165"
+    },
+    {
+        "bankAtmId": 182,
+        "atmBranchCode": "EB167"
+    },
+    {
+        "bankAtmId": 183,
+        "atmBranchCode": "EB168"
+    },
+    {
+        "bankAtmId": 185,
+        "atmBranchCode": "EB172"
+    },
+    {
+        "bankAtmId": 186,
+        "atmBranchCode": "EB173"
+    },
+    {
+        "bankAtmId": 187,
+        "atmBranchCode": "EB174"
+    }
+]
