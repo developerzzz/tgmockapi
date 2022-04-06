@@ -3,6 +3,7 @@ const inprogresscourses = require("./data/inprogress_courses");
 const usercourses = require("./data/user_courses");
 const coursedetails = require("./data/course_details");
 const categories = require("./data/categories");
+const atm = require("./data/atm");
 
 module.exports = {
   latestcourses,
