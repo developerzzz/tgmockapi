@@ -10,7 +10,8 @@ module.exports = {
   inprogresscourses,
   usercourses,
   coursedetails,
-  categories
+  categories,
+  atm
 }
 
 
